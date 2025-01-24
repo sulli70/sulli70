@@ -5,4 +5,4 @@ and at the same time, enable Developer Mode, make SSHs, access Linux, and Crosh.
 
 If you have any tips, please tell me them.
 
-sincerely, a middle schooler.
+Sincerely, a middle schooler.
